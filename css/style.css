@@ -68,7 +68,7 @@ a:hover, a:active, a:focus {
 }
 
 p {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 h2, h3, h4, h5, h6, figure {
@@ -498,7 +498,7 @@ h2, h3, h4, h5, h6, figure {
   margin-bottom: 5px;
 }
 .ubea-staff p {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .ubea-staff .role {
   color: #bfbfbf;
