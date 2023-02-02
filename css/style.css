@@ -1941,16 +1941,20 @@ form label {
   min-height: 700px;
   position: relative;
 }
+
+/**
+  Update here to change the background color of the flex slider 
+*/
 #ubea-hero .flexslider .slides li .overlay {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.5);
 }
 #ubea-hero .flexslider .flex-control-nav {
-  bottom: 40px;
+  bottom: 30px;
   z-index: 1000;
 }
 #ubea-hero .flexslider .flex-control-nav li a {
@@ -2036,7 +2040,7 @@ form label {
 }
 @media screen and (max-width: 768px) {
   #ubea-hero .flexslider .slider-text > .slider-text-inner h2 {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 #ubea-hero .flexslider .slider-text > .slider-text-inner .ubea-lead {
